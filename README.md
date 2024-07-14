@@ -4,8 +4,8 @@ I am Helter Skelter Games.
 I code Video Games using a multitude of engines.
 Here is some info about me:
 
-  - I’m currently working on a Racing game in Godot Engine
-  - I speak both English and Italian
+  - I’m currently working on a game in Godot Engine
+  - I speak both English and conversational Italian, I am learning to become fluent.
   - I code in Lua and Python (Currently)
   - I am learning: C++ and GDscript
   - I was born and raised in England, UK.
